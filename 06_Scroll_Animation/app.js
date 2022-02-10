@@ -15,5 +15,5 @@ function checkBoxes() {
         } else {
             box.classList.remove('show');
         }
-    })
+    });
 }
